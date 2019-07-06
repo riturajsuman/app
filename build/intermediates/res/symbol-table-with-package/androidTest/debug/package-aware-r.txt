@@ -1,0 +1,2 @@
+com.rituraj.weather.test
+string app_name

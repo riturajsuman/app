@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\b2b7a750eadb6791c90a9fb1ed2e1fea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\8c8c8b7a6211d1c6519479a60bd189b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\7cd67ddd7d1aadd726f37be68643c1c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\6d33667c3844b8f5c2098586151bebbe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\a22e4da720e97f24cf821bb6f7e361b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\c90f00f054755611138dca08241c014a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\8844a0eb6c61bc8006fddce4c1add735\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\f597006fb2daa3485ea362f634801395\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\6ff6767263a10f686eb4472a6c9ab5b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\3c8b1168a3844a5ed265254596aaf9f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\2f5e2d78f65ec34cdf2f703fe8dd6c7d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\7b175aa154c3738d8e3ec5e99c4526f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\25a8a9dc395773fdba93b74d8517c00e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\bd881512784a94e3de637b050215671e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\31cd8b1749ad29a19e7d2323613c583c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\b198dfb89bc1fdd8f89dffe0e5278495\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\381c0f5e5860822a5d037ffffc68ae93\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\1407c4b286a8d1f250bafd5e865f091f\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\7393c09fc6e6eb13e4e96b1cc33cf6f6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\fac560e60a736087695f4519198e9ea3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\4eb7300d01932a8cef6e9c219b76585a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\79b82f5967ab7389ddb53eeafb49ec00\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\23c6608fe35331505406e413ae515ce4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\1f409602c035b17276610982508eec8d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\5091d1c8dea875d738bfa616801fc5e1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\9d17d29c8a69b431d8c1e9560a980687\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\520cfbb76bb5ffce694de050db2eff1c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\4d62b2008eab7099e50e1b2822e90b01\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:4:5-44
+		INJECTED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\381c0f5e5860822a5d037ffffc68ae93\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\381c0f5e5860822a5d037ffffc68ae93\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\1407c4b286a8d1f250bafd5e865f091f\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\1407c4b286a8d1f250bafd5e865f091f\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\381c0f5e5860822a5d037ffffc68ae93\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:10:9-41
+	tools:ignore
+		ADDED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:14:9-48
+	android:roundIcon
+		ADDED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.accenture_rituraj.weather.ui.view.MainActivity
+ADDED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:15:19-84
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\b2b7a750eadb6791c90a9fb1ed2e1fea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\b2b7a750eadb6791c90a9fb1ed2e1fea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\8c8c8b7a6211d1c6519479a60bd189b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\8c8c8b7a6211d1c6519479a60bd189b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\7cd67ddd7d1aadd726f37be68643c1c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\7cd67ddd7d1aadd726f37be68643c1c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\6d33667c3844b8f5c2098586151bebbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\6d33667c3844b8f5c2098586151bebbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\a22e4da720e97f24cf821bb6f7e361b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\a22e4da720e97f24cf821bb6f7e361b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\c90f00f054755611138dca08241c014a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\c90f00f054755611138dca08241c014a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\8844a0eb6c61bc8006fddce4c1add735\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\8844a0eb6c61bc8006fddce4c1add735\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\f597006fb2daa3485ea362f634801395\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\f597006fb2daa3485ea362f634801395\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\6ff6767263a10f686eb4472a6c9ab5b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\6ff6767263a10f686eb4472a6c9ab5b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\3c8b1168a3844a5ed265254596aaf9f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\3c8b1168a3844a5ed265254596aaf9f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\2f5e2d78f65ec34cdf2f703fe8dd6c7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\2f5e2d78f65ec34cdf2f703fe8dd6c7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\7b175aa154c3738d8e3ec5e99c4526f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\7b175aa154c3738d8e3ec5e99c4526f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\25a8a9dc395773fdba93b74d8517c00e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\25a8a9dc395773fdba93b74d8517c00e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\bd881512784a94e3de637b050215671e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\bd881512784a94e3de637b050215671e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\31cd8b1749ad29a19e7d2323613c583c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\31cd8b1749ad29a19e7d2323613c583c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\b198dfb89bc1fdd8f89dffe0e5278495\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\b198dfb89bc1fdd8f89dffe0e5278495\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\381c0f5e5860822a5d037ffffc68ae93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\381c0f5e5860822a5d037ffffc68ae93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\1407c4b286a8d1f250bafd5e865f091f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\1407c4b286a8d1f250bafd5e865f091f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\7393c09fc6e6eb13e4e96b1cc33cf6f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\7393c09fc6e6eb13e4e96b1cc33cf6f6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\fac560e60a736087695f4519198e9ea3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\fac560e60a736087695f4519198e9ea3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\4eb7300d01932a8cef6e9c219b76585a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\4eb7300d01932a8cef6e9c219b76585a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\79b82f5967ab7389ddb53eeafb49ec00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\79b82f5967ab7389ddb53eeafb49ec00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\23c6608fe35331505406e413ae515ce4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\23c6608fe35331505406e413ae515ce4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\1f409602c035b17276610982508eec8d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\1f409602c035b17276610982508eec8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\5091d1c8dea875d738bfa616801fc5e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\5091d1c8dea875d738bfa616801fc5e1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\9d17d29c8a69b431d8c1e9560a980687\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\9d17d29c8a69b431d8c1e9560a980687\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\520cfbb76bb5ffce694de050db2eff1c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\520cfbb76bb5ffce694de050db2eff1c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\4d62b2008eab7099e50e1b2822e90b01\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\rituraj.suman\.gradle\caches\transforms-2\files-2.1\4d62b2008eab7099e50e1b2822e90b01\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rituraj.suman\OneDrive - Accenture\Desktop\final\weather\weather_app\app\src\main\AndroidManifest.xml
